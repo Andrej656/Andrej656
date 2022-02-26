@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Andrej656
 - 👀 I’m interested in Smart Contracts
-- 🌱 I’m currently learning evrything what is new
+- 🌱 I’m currently learning everything what is new
 - 💞️ I’m looking to collaborate on Solidity
 - 📫 How to reach me ...
 
