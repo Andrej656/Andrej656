@@ -11,23 +11,7 @@
 </p>
 
 
-<br>
-<br>
-<br>
 
-<div class="container">
-  <div class="row images-wrapper">
-    <div class="col-md-4 col-sm-4">
-       <img src="https://github.com/Andrej656/Andrej656/assets/98988595/c9a7e595-6de3-4209-a08e-f2b1f89e7bc9.png" width="200" height="200"/>
-    </div>
-    <div class="col-md-4 col-sm-4">
-      <img src="https://github.com/Andrej656/Andrej656/assets/98988595/66d15549-56cf-4fc2-9601-189244788c8c.png" width="200" height="200"/>
-    </div>
-    <div class="col-md-4 col-sm-4">
-      <img src="https://github.com/Andrej656/Andrej656/assets/98988595/134a7d71-8145-4a27-ae4c-5c684d545f1a.png" width="200" height="200"/>
-       </div>
-     </div>
-</div>
 
 <br>
 <br>
