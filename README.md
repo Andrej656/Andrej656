@@ -62,24 +62,31 @@ stablecoins 4 types (algorithmic, crypto-backed up, fiat-backed up, and a mix of
 Aave
 
 <br>
+
 Proficiency in understanding and usage of Smart Contracts from Aave leverage, borrowing, and pool creation. Developed flash loans contract on testnet for instantly borrowing larger amounts of tokens in order to accelerate liquidity and leveraging.
+
 <br>
 
 Uniswap, SushiSwap, PancakeSwap
 
 <br>
+
 Knowledge of reading and writing and interaction with SC of v.3 and v.4. Adding liquidity to a token that is new on the market and listing on DEX. Increasing and decreasing liquidity.
+
 <br>
 
 Maker DAO
 
 <br>
+
 Usage of DAI stablecoin and their protocol for governance and voting inside of the community. Used DAI for leverage on a few platforms for better outcomes of investment in specific tokens.
+
 <br>
 
 Yearn Finance
 
 <br>
+
 Used ETH for staking in a vault in order to receive rewards for staking and yield.
 
 <br>
