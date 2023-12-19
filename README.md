@@ -8,7 +8,7 @@
 I'm passionate about developing Smart Contracts and exploring decentralized systems. My expertise lies in Solidity, Typescript, JavaScript, Node.js, React applications, and designing robust system architectures using tools like Miro and Figma.
 
 ## Expertise
- **Smart Contracts Development:** Proficient in Solidity for creating secure and efficient smart contracts.
+ **Smart Contracts Development:** Proficient in Solidity for creating secure and efficient smart contracts.<br>
  **Web Development:** Skilled in Typescript, JavaScript, Node.js, and React for building powerful web applications.
  **System Architectures:** Experienced in crafting scalable system architectures using Miro and Figma to visualize and plan.
  **Issue Tracking & Roadmaps:** Proficient in Jira for tracking issues, creating roadmaps, and managing tasks. Utilize Confluence for comprehensive documentation.
