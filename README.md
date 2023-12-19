@@ -5,7 +5,7 @@
 # Andrej's Profile
 
 ## About Me
-I'm passionate about developing Smart Contracts and exploring decentralized systems. My expertise lies in Solidity, Typescript, JavaScript, Node.js, React applications, and designing robust system architectures using tools like Miro and Figma.
+I'm passionate about blockchain technology and development of Smart Contracts and exploring decentralized systems. My expertise lies in Solidity, Typescript, JavaScript, Node.js, React applications, and designing robust system architectures using tools like Miro and Figma.
 
 ## Expertise
  **Smart Contracts Development:** Proficient in Solidity for creating secure and efficient smart contracts.<br>
