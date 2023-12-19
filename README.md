@@ -12,12 +12,7 @@ I'm passionate about developing Smart Contracts and exploring decentralized syst
  **Web Development:** Skilled in Typescript, JavaScript, Node.js, and React for building powerful web applications.<br>
  **System Architectures:** Experienced in crafting scalable system architectures using Miro and Figma to visualize and plan.<br>
  **Issue Tracking & Roadmaps:** Proficient in Jira for tracking issues, creating roadmaps, and managing tasks. Utilize Confluence for comprehensive documentation.<br>
- **Protocols & Technologies:** Well-versed in utilizing protocols like The Graph, Chainlink, Lit Protocol, World ID, Web3modal, WalletConnect, ZK Roll-ups, and more for enhanced functionalities and security.
-
-## Tools & Platforms
- **Jira & Confluence:** Proficient in using Jira for issue tracking and managing tasks, coupled with Confluence for detailed documentation.<br>
- **The Graph & Chainlink:** Leveraging protocols like The Graph and Chainlink for reliable data and oracle services.<br>
- **Web3 Technologies:** Familiar with Web3modal, WalletConnect, and ZK Roll-ups for seamless interactions with blockchain networks.<br>
+ **Protocols & Technologies:** Well-versed in utilizing protocols like The Graph, Chainlink, Lit Protocol, World ID, Web3modal, WalletConnect, ZK Roll-ups, and more for enhanced functionalities and security.<br>
 
 
 ## Get in Touch
