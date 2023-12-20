@@ -8,11 +8,12 @@
 I'm passionate about blockchain technology and development of Smart Contracts and exploring decentralized systems. My expertise lies in Solidity, Typescript, JavaScript, Node.js, React applications, and designing robust system architectures using tools like Miro and Figma.
 
 ## Expertise
- **Smart Contracts Development:** Proficient in Solidity for creating secure and efficient smart contracts.<br>
- **Web Development:** Skilled in Typescript, JavaScript, Node.js, and React for building powerful web applications.<br>
- **System Architectures:** Experienced in crafting scalable system architectures using Miro and Figma to visualize and plan.<br>
- **Issue Tracking & Roadmaps:** Proficient in Jira for tracking issues, creating roadmaps, and managing tasks. Utilize Confluence for comprehensive documentation.<br>
- **Protocols & Technologies:** Well-versed in utilizing protocols like The Graph, Chainlink, Lit Protocol, World ID, Web3modal, WalletConnect, ZK Roll-ups, and more for enhanced functionalities and security.<br>
+ **Smart Contracts Development:** Proficient in **Solidity** for creating secure and efficient smart contracts.<br>
+ **Web Development:** Skilled in **Typescript**, **JavaScript**, **Node.js**, and **React** for building powerful web applications.<br>
+ **System Architectures:** Experienced in crafting scalable system architectures using **Miro** and **Figma** to visualize and plan.<br>
+ **Issue Tracking & Roadmaps:** Proficient in **Jira** for tracking issues, creating roadmaps, and managing tasks. Utilize **Confluence** for comprehensive documentation.<br>
+ **Protocols & Technologies:** Well-versed in utilizing protocols like **The Graph**, **Chainlink**, **Lit Protocol**, **World ID**, **Web3modal**, **WalletConnect**, **ZK Roll-ups**, and more for enhanced functionalities and security.<br>
+ **New Technologies in usage:** Using **Clarity** and **Stacks** chain for development and **Rust** in writing Smart Contracts on EVM-like chains
 
 
 ## Get in Touch
