@@ -5,7 +5,7 @@
 # Andrej's Profile
 
 ## About Me
-👋 Hey there! I'm Andrej, a passionate developer specializing in crafting innovative Web3 applications using TypeScript, Node.js, Solidity, and Clarity. Using blockchain technology to support tax regulation, sales support (crypto and goods exchange), decentralized platforms to support social network and non-profit needs.
+👋 Hey there! I'm Andrej, a passionate developer specializing in crafting innovative Web3 applications using TypeScript, Node.js, Solidity, and Clarity. I have developed blockchain based software for digital assests tax and regulatory support, sales support platforms (crypto and goods exchange), and decentralized platforms to support social network and non-profit needs.
 
 ## Expertise
  **Smart Contracts Development:** Proficient in **Solidity** for creating secure and efficient smart contracts.<br>
