@@ -12,14 +12,16 @@ I served as project manager several blockchain projects supervising 10+ develope
  **Web Development:** Skilled in **Typescript**, **JavaScript**, **Node.js**, and **React** for building powerful web applications.<br>
  **System Architectures:** Experienced in crafting scalable system architectures using **Miro** and **Figma** to visualize and plan.<br>
  **Issue Tracking & Roadmaps:** Proficient in **Jira** for tracking issues, creating roadmaps, and managing tasks. Utilize **Confluence** for comprehensive documentation.<br>
- **Protocols & Technologies:** Well-versed in utilizing protocols like **The Graph**, **Chainlink**, **Lit Protocol**, **World ID**, **Web3modal**, **WalletConnect**, **ZK Roll-ups**, and more for enhanced functionalities and security.<br>
+ **Protocols & Technologies:** Well-versed in utilizing protocols like **The Graph**, **Chainlink**, **Lit Protocol**, **World ID**, **Web3modal**, **WalletConnect**, **ZK Roll-ups**, and 
+ more for enhanced functionalities and security.<br>
  **New Technologies in usage:** Using **Clarity** and **Stacks** chain for development and **Rust** in writing Smart Contracts on EVM-like chains
 
 
 ## Get in Touch
-Feel free to reach out for collaboration, questions, or discussions:<br>
- Email: andrej.vrkljan@gmail.com/vrkljan.andrej@gmail.com<br>
+ Feel free to reach out for collaboration, questions, or discussions:<br>
+ Email: andrej.vrkljan@gmail.com/ vrkljan.andrej@gmail.com<br>
  LinkedIn: https://www.linkedin.com/in/andrej-vrkljan-253212178/<br>
+ Miro: https://miro.com/app/board/uXjVMx3HARg=/?share_link_id=232098233414<br>
 
 <br>
 <br>
