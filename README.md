@@ -4,6 +4,8 @@
      
 # Andrej's Profile
 
+https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png<br>
+
 ## About Me
 👋 Hey there! I'm Andrej, a passionate developer specializing in crafting innovative Web3 applications using TypeScript, Node.js, Solidity, and Clarity. I have developed blockchain based software for digital assests tax and regulatory support, sales support platforms (crypto and goods exchange), and decentralized platforms to support social network and non-profit needs.
 I served as project manager several blockchain projects supervising 10+ developers in start-up environment.
