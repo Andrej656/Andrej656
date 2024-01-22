@@ -29,13 +29,14 @@
 👋 Hey there! I'm Andrej, a passionate developer specializing in crafting innovative Web3 applications using TypeScript, Node.js, Solidity, and Clarity. I have developed blockchain based software for digital assests tax and regulatory support, sales support platforms (crypto and goods exchange), and decentralized platforms to support social network and non-profit needs.
 I served as project manager several blockchain projects supervising 10+ developers in start-up environment.
 ## Expertise
- **Smart Contracts Development:** Proficient in **Solidity** for creating secure and efficient smart contracts.<br>
- **Web Development:** Skilled in **Typescript**, **JavaScript**, **Node.js**, and **React** for building powerful web applications.<br>
- **System Architectures:** Experienced in crafting scalable system architectures using **Miro** and **Figma** to visualize and plan.<br>
- **Issue Tracking & Roadmaps:** Proficient in **Jira** for tracking issues, creating roadmaps, and managing tasks. Utilize **Confluence** for comprehensive documentation.<br>
- **Protocols & Technologies:** Well-versed in utilizing protocols like **The Graph**, **Chainlink**, **Lit Protocol**, **World ID**, **Web3modal**, **WalletConnect**, **ZK Roll-ups**, and 
- more for enhanced functionalities and security.<br>
- **New Technologies in usage:** Using **Clarity** and **Stacks** chain for development and **Rust** in writing Smart Contracts on EVM-like chains
+
+ **${\color{blue}Smart Contracts Development:}$** Proficient in **Solidity** for creating secure and efficient smart contracts.<br>
+ **${\color{blue}Stack:}$** Skilled in **Typescript**, **JavaScript**, **Node.js**, and **React** for building powerful web applications.<br>
+ **${\color{blue}Architectures:}$** Experienced in crafting scalable system architectures using **Miro** and **Figma** to visualize and plan.<br>
+ **${\color{blue}Project managment:}$** Proficient in **Jira** for tracking issues, creating roadmaps, and managing tasks. Utilize **Confluence** for comprehensive documentation.<br>
+ **${\color{blue}Technologies:}$** Well-versed in utilizing protocols like **The Graph**, **Chainlink**, **Lit Protocol**, **World ID**, **Web3modal**, **WalletConnect**, **ZK Roll- 
+ ups**,and more for enhanced functionalities and security.<br>
+ **${\color{blue}New Technologies:}$** Using **Clarity** and **Stacks** chain for development and **Rust** in writing Smart Contracts on EVM-like chains
 
 
 ## Get in Touch
